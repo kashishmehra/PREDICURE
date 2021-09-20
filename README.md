@@ -31,7 +31,7 @@ classifier.
 
 <img align="center" height="300" width="500" alt="GIF" src="https://github.com/kashishmehra/PREDICURE/blob/main/methodology%20flowchart.jpeg?raw=true" />
 
-## Block Diagram for the Predicure System
+
 
 <img align="center" height="400" width="500" alt="GIF" src="https://github.com/kashishmehra/PREDICURE/blob/main/blockdiagram%20for%20prediure.jpeg?raw=true" />
 
