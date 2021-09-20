@@ -37,4 +37,4 @@ classifier.
 
 ## Block Diagram for Disease Prediction
 
-<img align="center" height="300" width="500" alt="GIF" src="" />
+<img align="center" height="300" width="500" alt="GIF" src="https://github.com/kashishmehra/PREDICURE/blob/main/block%20diagram%20for%20prediction%20of%20disease.jpeg?raw=true" />
