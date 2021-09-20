@@ -4,7 +4,10 @@ for the medical practitioner and pathologist for diagnosis and treatment plannin
 fact that some tests may be time consuming and difficult for the pathologists to obtain the 
 accuracy of the presence of any disease. This project uses the image processing techniques to 
 help the end user to automatically classify the disease by providing the image of affected area 
-as input.
+as input.The project aims at designing an automated computer based multiple disease classification 
+system. Models used would be trained using large datasets (around 11k for skin, 14k for covid-19 and
+11k for brain) to acquire high accuracy unlike the previous implementations available.
+
 A website is built where a person can upload an image from the UI. The image would 
 be sent to the trained model. The model would then analyze the image and detect whether the 
 person is suffering from the disease or not.
