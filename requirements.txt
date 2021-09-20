@@ -1,0 +1,4 @@
+Python==3.9.0
+Django==3.2.7
+Tensorflow==2.5.0
+OpenCV==4.5.3
