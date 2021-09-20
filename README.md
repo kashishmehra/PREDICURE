@@ -24,7 +24,7 @@ from the database.
 2. Second step includes image processing i.e. the finer details of images are enhanced and 
 noises are removed from the images. Functions performed by preprocessing process is Gray 
 scale conversion, noise removal and contrast enhancement. 
-3. Third stage is feature extraction using convolutional neural network (CNN). 
+3. Third stage is feature extraction using convolutional neural network (with and without pre-trained models). 
 4. Last stage is classification stage. Classification provides the answer whether the image 
 contains brain tumor or not and same for others as well. For classification we have used CNN 
 classifier.
