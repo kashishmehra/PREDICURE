@@ -30,3 +30,11 @@ contains brain tumor or not and same for others as well. For classification we h
 classifier.
 
 <img align="center" height="300" width="500" alt="GIF" src="https://github.com/kashishmehra/PREDICURE/blob/main/methodology%20flowchart.jpeg?raw=true" />
+
+## Block Diagram for the Predicure System
+
+<img align="center" height="300" width="500" alt="GIF" src="" />
+
+## Block Diagram for Disease Prediction
+
+<img align="center" height="300" width="500" alt="GIF" src="" />
